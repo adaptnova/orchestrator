@@ -1,0 +1,20 @@
+# Files and directories to exclude from rsync
+venv/
+__pycache__/
+*.pyc
+.git/
+*.log
+*.tmp
+.DS_Store
+node_modules/
+*.swp
+*.swo
+.env
+service-account-key.json
+*.bak
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
